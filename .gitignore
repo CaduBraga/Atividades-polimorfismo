@@ -1,0 +1,33 @@
+# Compilados Java
+*.class
+
+# Diretórios de build
+dist/
+build/
+out/
+
+# Arquivos de log
+*.log
+
+# Configurações de IDEs
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Arquivos de execução
+*.jar
+*.war
+*.ear
+
+# Outros
+compilar.bat 
