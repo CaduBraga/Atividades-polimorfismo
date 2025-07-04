@@ -35,7 +35,7 @@ Atividades-polimorfismo/
 - **view/**: Interface de interação com o usuário (console).
 - **Main.java**: Classe principal para execução do sistema.
 
-## 🐶 Exemplos de Entidades
+## Exemplos de Entidades
 
 - **Animal** (superclasse abstrata)
   - Cachorro
@@ -68,7 +68,7 @@ javac -cp src src/br/com/AtividadesPolimorfismo/Main.java
 java -cp src br.com.AtividadesPolimorfismo.Main
 ```
 
-## 🎨 Técnicas e Padrões Utilizados
+## Técnicas e Padrões Utilizados
 
 - **MVC:** Separação entre dados, lógica e interface.
 - **POO:** Encapsulamento, herança e polimorfismo.
