@@ -1,4 +1,4 @@
-# 🐾 Atividades de Polimorfismo em Java
+# Atividades de Polimorfismo em Java
 
 Este repositório contém um projeto Java para treinar conceitos de Polimorfismo, Orientação a Objetos e organização em MVC, utilizando exemplos de animais, pessoas, livros e produtos.
 
